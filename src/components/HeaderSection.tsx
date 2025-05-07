@@ -35,7 +35,7 @@ const HeaderSection = () => {
       </div>
       <div className="relative z-10 h-full flex flex-col items-center justify-center text-center px-4 space-y-6 text-black">
         <p className="text-lg md:text-xl">LEARN WITH US</p>
-        <h1 className="text-4xl md:text-6xl font-bold">STUDY WITH EXPERTS</h1>
+        <h1 className="text-4xl md:text-6xl font-bold">STUDY WITH EXPERT</h1>
         <p className="max-w-xl md:text-lg ">
           This should be used to tell a story and let your users know a little
           more about your product or service. How can you benefit them?
